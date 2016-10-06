@@ -8,11 +8,12 @@ Each pokemon will be displayed twice on the Board
 Every time the game starts, the Board is randomised to display 16 pokemons
 On start, the Board is blanked out. 
 The player can just type in any question/sentences, whatever he is looking for
+example : "Show me all the water types" or "where are all my level two and level 3 pokemons?"
 The programme will read the player input, search.
 If the relevant pokemon is found, then it will display the pokemon on the board
 To search again, just backspace or delete the input
 
 
 Special thanks to Prima, Glen, Kailin and class of WDI6 
-Acknowledgement to stackoverflow, w3school
+Acknowledgement to stackoverflow, w3school, Nintendo and Pokemon series
 Special shoutout to Fifa19
